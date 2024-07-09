@@ -1,6 +1,27 @@
+<h3>Olá, Sou o Rafael Zelak</h3><br>
+<div>
+  <a href="https://beacons.ai/rafaballerini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelZelak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelZelak&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
-### Olá, Sou o Rafael Zelak
+<div style="display: inline-block"><br>
 
-![RafaelZelak GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelZelak&show_icons=true&theme=radical)
+<img style="width: 93px; height: 75px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelZelak&layout=compact)
+<img style="width: 93px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+
+<img  style="width: 93px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img style="width: 93px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
+<img style="width: 93px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img style="width: 93px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<img style="width: 93px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+
+<img style="width: 93px; height: 70px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+</div>
