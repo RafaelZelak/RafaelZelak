@@ -7,7 +7,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelZelak&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br><br>
-<img align="center" height="229em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelZelak&theme=radical"/>
+<img align="center" height="229em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelZelak&theme=dracula"/>
 
 <div align="center" style="display: inline-block;"><br>
 <h2>Development 🌐</h2>
