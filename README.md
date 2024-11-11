@@ -1,10 +1,13 @@
 <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey!+👋;+My+name's+Rafael+Zelak!;" />
 </h2>
-<div>
-    <img align="center" height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=RafaelZelak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img align="center" height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelZelak&layout=compact&langs_count=16&theme=dracula"/>
+<br>
+<div align="center">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RafaelZelak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelZelak&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+<br><br>
+<img align="center" height="229em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelZelak&theme=radical"/>
 
 <div align="center" style="display: inline-block;"><br>
 <h2>Development 🌐</h2>
