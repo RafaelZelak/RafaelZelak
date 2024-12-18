@@ -49,6 +49,9 @@
 
 <img style="width: 80px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
+<img style="width: 80px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+
+
 <br>
 
 </div>
