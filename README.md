@@ -4,7 +4,7 @@
 <br>
 <div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RafaelZelak&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelZelak&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelZelak&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 <br><br>
 <img align="center" height="229em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelZelak&theme=dracula"/>
