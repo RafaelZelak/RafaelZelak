@@ -39,7 +39,7 @@
 
 <div align="center" style="display: inline-block;"><br>
     
-<h2>Curious about 🔍</h2>
+<h2>Curious About 🔍</h2>
 
 <img style="width: 80px; height: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
